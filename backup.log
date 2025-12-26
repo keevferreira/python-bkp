@@ -1,4 +1,0 @@
-2025-12-26 12:26:05 | INFO | backup_tool | Diretório de destino criado: backups
-2025-12-26 12:26:05 | INFO | backup_tool | Diretório de backup (versionado) criado: backups/20251226_122605
-2025-12-26 12:26:05 | INFO | backup_tool | Arquivo copiado: origem/teste.txt -> backups/20251226_122605/teste.txt (7 bytes)
-2025-12-26 12:26:05 | INFO | backup_tool | Backup finalizado com sucesso. Arquivos: 1 | Bytes: 7 | Destino: backups/20251226_122605
